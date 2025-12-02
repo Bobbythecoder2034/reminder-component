@@ -1,0 +1,22 @@
+export const data = [
+{"id":1,"name":"Ebba","birthday":"2026-02-03T18:43:58Z","image":"http://dummyimage.com/248x100.png/ff4444/ffffff"},
+{"id":2,"name":"Ernestine","birthday":"2026-02-26T09:03:48Z","image":"http://dummyimage.com/156x166.png/5fa2dd/ffffff"},
+{"id":3,"name":"Raoul","birthday":"2026-01-29T23:26:36Z","image":"http://dummyimage.com/222x147.png/dddddd/000000"},
+{"id":4,"name":"Demetris","birthday":"2026-01-02T11:01:40Z","image":"http://dummyimage.com/182x148.png/5fa2dd/ffffff"},
+{"id":5,"name":"Rosemarie","birthday":"2026-02-01T16:28:10Z","image":"http://dummyimage.com/221x203.png/cc0000/ffffff"},
+{"id":6,"name":"Electra","birthday":"2026-02-28T22:01:00Z","image":"http://dummyimage.com/185x145.png/dddddd/000000"},
+{"id":7,"name":"Berri","birthday":"2026-01-02T14:16:31Z","image":"http://dummyimage.com/175x188.png/5fa2dd/ffffff"},
+{"id":8,"name":"Almeria","birthday":"2026-01-19T06:10:33Z","image":"http://dummyimage.com/126x216.png/cc0000/ffffff"},
+{"id":9,"name":"Ann","birthday":"2025-12-30T19:08:48Z","image":"http://dummyimage.com/100x231.png/ff4444/ffffff"},
+{"id":10,"name":"Terence","birthday":"2026-02-09T23:33:09Z","image":"http://dummyimage.com/197x213.png/cc0000/ffffff"},
+{"id":11,"name":"Jeanelle","birthday":"2025-12-30T19:58:58Z","image":"http://dummyimage.com/138x156.png/5fa2dd/ffffff"},
+{"id":12,"name":"Fletcher","birthday":"2026-01-02T00:03:57Z","image":"http://dummyimage.com/101x155.png/ff4444/ffffff"},
+{"id":13,"name":"Marybelle","birthday":"2026-03-03T05:09:55Z","image":"http://dummyimage.com/122x241.png/ff4444/ffffff"},
+{"id":14,"name":"Eddi","birthday":"2025-12-23T04:50:36Z","image":"http://dummyimage.com/165x194.png/ff4444/ffffff"},
+{"id":15,"name":"Ginevra","birthday":"2025-12-26T05:04:23Z","image":"http://dummyimage.com/117x103.png/5fa2dd/ffffff"},
+{"id":16,"name":"Nadiya","birthday":"2026-02-09T02:35:18Z","image":"http://dummyimage.com/174x238.png/cc0000/ffffff"},
+{"id":17,"name":"Nelle","birthday":"2026-02-26T02:38:26Z","image":"http://dummyimage.com/224x104.png/5fa2dd/ffffff"},
+{"id":18,"name":"Rikki","birthday":"2026-01-21T19:52:29Z","image":"http://dummyimage.com/247x181.png/cc0000/ffffff"},
+{"id":19,"name":"Robinet","birthday":"2026-03-08T06:29:50Z","image":"http://dummyimage.com/120x203.png/ff4444/ffffff"},
+{"id":20,"name":"Page","birthday":"2026-02-15T15:28:21Z","image":"http://dummyimage.com/229x162.png/ff4444/ffffff"}
+]
