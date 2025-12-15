@@ -1,4 +1,4 @@
-import React, {use, useState} from 'react'
+
 import ReminderToday from './ReminderToday'
 import ReminderMonth from './ReminderMonth'
 import ReminderFuture from './ReminderFuture'
@@ -51,11 +51,11 @@ export default function ReminderDisplay() {
   return (
     <>
     <h2>Birthdays Today</h2>
-    <ReminderToday objs = {todayDates}/>
+    <ReminderToday objs = {todayDates} class="display"/>
     <h2>Birthdays This Month</h2>
-    <ReminderMonth objs = {monthDates}/>
+    <ReminderMonth objs = {monthDates} className="display"/>
     <h2>Birthdays Later This Year</h2>
-    <ReminderFuture objs = {futureDates}/>
+    <ReminderFuture objs = {futureDates} className="display"/>
     
     </>
   )

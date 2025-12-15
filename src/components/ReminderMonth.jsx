@@ -1,11 +1,11 @@
-import React, {use, useState} from 'react'
+
 
 export default function ReminderMonth(objs) {
-  console.log(objs)
+
   return (
-    <>
-      {objs.map(x=>{
-        return(<div key={x.id}>
+    <div className='display'>
+      {objs.objs.map(x=>{
+        return(<div key={x.id}  className='name-holder month'>
           <div>
             <h2>{x.name}</h2>
             <h3>{x.birthday}</h3>
@@ -13,7 +13,7 @@ export default function ReminderMonth(objs) {
           <img src={x.image} alt={x.name} />
         </div>)
       })}
-    </>
+    </div>
     
   )
 }

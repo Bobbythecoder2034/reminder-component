@@ -7,7 +7,7 @@ export const data = [
 {"id":6,"name":"Electra","birthday":"2026-02-28T22:01:00Z","image":"http://dummyimage.com/185x145.png/dddddd/000000"},
 {"id":7,"name":"Berri","birthday":"2026-01-02T14:16:31Z","image":"http://dummyimage.com/175x188.png/5fa2dd/ffffff"},
 {"id":8,"name":"Almeria","birthday":"2026-12-05T06:10:33Z","image":"http://dummyimage.com/126x216.png/cc0000/ffffff"},
-{"id":9,"name":"Ann","birthday":"2025-12-30T19:08:48Z","image":"http://dummyimage.com/100x231.png/ff4444/ffffff"},
+{"id":9,"name":"Ann","birthday":"2025-12-08T19:08:48Z","image":"http://dummyimage.com/100x231.png/ff4444/ffffff"},
 {"id":10,"name":"Terence","birthday":"2026-02-09T23:33:09Z","image":"http://dummyimage.com/197x213.png/cc0000/ffffff"},
 {"id":11,"name":"Jeanelle","birthday":"2025-12-30T19:58:58Z","image":"http://dummyimage.com/138x156.png/5fa2dd/ffffff"},
 {"id":12,"name":"Fletcher","birthday":"2026-01-02T00:03:57Z","image":"http://dummyimage.com/101x155.png/ff4444/ffffff"},
