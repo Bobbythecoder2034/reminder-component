@@ -7,6 +7,6 @@ import ReminderDisplay from './components/ReminderDisplay';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ReminderDisplay />
+    <ReminderDisplay/>
   </React.StrictMode>
 );
