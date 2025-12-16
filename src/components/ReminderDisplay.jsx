@@ -1,4 +1,4 @@
-
+'use client'
 import ReminderToday from './ReminderToday'
 import ReminderMonth from './ReminderMonth'
 import ReminderFuture from './ReminderFuture'
